@@ -1,12 +1,6 @@
-## Hi there 👋
+## TorchUp Education
+An educational group aiming to be Bangkok’s largest education platform.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Meet the Team! 👋
+![phonto](https://user-images.githubusercontent.com/40157947/217838622-f49aa2b7-206a-4d48-9ca6-31c876f39a4d.jpg)
+What a lovely bunch! ❤️
